@@ -1,0 +1,1 @@
+This is an exportable Node.js module, built using Twit, that takes a Twitter handle and returns an array containing all of that user’s tweets. This is useful because the API only allows one to access tweets 200 at a time. This retrieves up to 3200 of the user’s most recent tweets (Twitter API does not allow access to more than that).

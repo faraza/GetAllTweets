@@ -1,0 +1,26 @@
+{
+  "name": "getalltweets",
+  "version": "1.0.0",
+  "description": "takes a Twitter handle and returns an array containing all of the tweets from that user",
+  "main": "getalltweets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/faraza/GetAllTweets"
+  },
+  "keywords": [
+    "Twitter",
+    "tweets"
+  ],
+  "author": "faraza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faraza/GetAllTweets/issues"
+  },
+  "homepage": "https://github.com/faraza/GetAllTweets",
+  "dependencies": {
+    "twit": "^1.1.18"
+  }
+}
